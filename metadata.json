@@ -1,0 +1,5 @@
+{
+  "name": "RecurVis - 递归算法可视化",
+  "description": "一个用于C++递归算法的高保真可视化工具，具有实时堆栈跟踪和内存可视化功能。",
+  "requestFramePermissions": []
+}
